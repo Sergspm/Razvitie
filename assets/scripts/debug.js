@@ -1,0 +1,1 @@
+!function(e){"use strict";if(/localhost|127\.0\.0\.1|192\.168\.\d{1,3}\.\d{1,3}/.test(e.location.hostname)){var o=e.document,t=o.createElement("link"),n="DEBUG — "+o.title;t.rel="icon",t.href="/debug.ico",o.getElementsByTagName("head")[0].appendChild(t),o.title=n,console&&console.info&&console.info(n)}}(window);

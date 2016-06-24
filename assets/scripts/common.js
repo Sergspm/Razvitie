@@ -1,0 +1,1 @@
+$(function(){"use strict";console.log("scripts/common.js connected")});
